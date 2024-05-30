@@ -1,0 +1,3 @@
+[submodule "applications/arcticCodeVault"]
+	path = applications/arcticCodeVault
+	url = https://github.com/pataya235/arcticCodeVault.git
